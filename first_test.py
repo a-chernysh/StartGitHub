@@ -1,5 +1,3 @@
-def greeting():
-    print("Hello!!!")
-    message = 'Hello, GitHub'
-    return message
+
+print("Hello, Git")
 
