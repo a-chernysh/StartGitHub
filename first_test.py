@@ -1,3 +1,5 @@
+def division(a, b):
+    return a / b
 
-print("Hello, Git")
 
+print(division(10, 2))
